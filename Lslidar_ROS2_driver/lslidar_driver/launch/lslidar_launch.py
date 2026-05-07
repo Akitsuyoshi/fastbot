@@ -35,6 +35,6 @@ def generate_launch_description():
 
     return LaunchDescription([
         driver_node,
-        rviz_node,
+        # rviz_node,
     ])
 
