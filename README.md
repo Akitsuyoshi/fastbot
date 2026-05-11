@@ -1,6 +1,8 @@
 # FastBot ROS2 Bringup
 
-ROS2 packages for controlling the FastBot mobile robot.
+ROS2 packages for controlling the FastBot mobile robot. 
+
+The demo video link: https://youtu.be/KvMH4xI8kqU
 
 <img src="FastBot_1.png" alt="fastbot" width="50%">
 
