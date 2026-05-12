@@ -2,7 +2,7 @@
 
 ROS2 packages for controlling the FastBot mobile robot. 
 
-The demo video link: https://youtu.be/KvMH4xI8kqU
+The demo video link: https://youtu.be/n6Z46oyAit4
 
 <img src="FastBot_1.png" alt="fastbot" width="50%">
 
